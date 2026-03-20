@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /panel.html
+
+Sitemap: https://www.goattvoficial.com/sitemap.xml
