@@ -11,7 +11,7 @@
 | Elemento | Estado | Actual | Recomendación |
 |----------|--------|--------|---------------|
 | **Title Tag** | ⚠️ Needs Work | "Goat TV APK — La Plataforma de Streaming en HD y 4K" (56 chars) | Incluir keywords como "películas", "series", "ver online". Sugerido: **"Goat TV — Ver Películas, Series y TV en Vivo HD/4K \| Streaming sin Límites"** |
-| **Meta Description** | ⚠️ Needs Work | 123 chars, genérica | Agregar CTA fuerte y keywords. Sugerido: **"Goat TV: Miles de películas, series y canales en vivo en HD y 4K. Sin contratos, acceso inmediato. Descarga la app y prueba gratis hoy. Streaming como Netflix a mejor precio."** |
+| **Meta Description** | ⚠️ Needs Work | 123 chars, genérica | Agregar CTA fuerte y keywords. Sugerido: **"Goat TV: Miles de películas, series y canales en vivo en HD y 4K. Sin contratos, acceso inmediato. Descarga la app y conoce los planes disponibles. Streaming como Netflix a mejor precio."** |
 | **H1** | ⚠️ Needs Work | "La Plataforma de Streaming en HD y 4K" — no menciona "Goat TV" ni "películas" | Cambiar a: **"Ver Películas, Series y TV en Vivo — Streaming HD y 4K"** |
 | **H2 tags** | ✅ Pass | 5 H2s con keywords parciales | Agregar H2s con preguntas de búsqueda: "¿Qué es Goat TV?", "Cómo ver películas online" |
 | **Imágenes** | ⚠️ Needs Work | Solo 3 imágenes (logo), todas con alt="Goat TV" | Agregar imágenes de contenido (películas, series), usar alt texts descriptivos con keywords |

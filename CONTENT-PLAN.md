@@ -18,14 +18,14 @@
 
 ### Video 2: "Instala esto en tu Fire Stick en 5 minutos"
 - **Hook (3 seg):** "Esto convierte tu Fire Stick en una BESTIA de streaming 📺🔥"
-- **Script:** Demo rápida de instalación: "Ve a configuración → apps de origen desconocido → instalar Downloader → descargar Goat TV → listo. 5 minutos."
+- **Script:** Muestra rápida de instalación: "Ve a configuración → apps de origen desconocido → instalar Downloader → descargar Goat TV → listo. 5 minutos."
 - **Texto en pantalla:** "Fire Stick + Goat TV = 🔥 (link en bio)"
 - **Hashtags:** #firestick #firestickhacks #streaming #goattv #apk #tutorial
 - **CTA:** "Tutorial completo en el blog (link en bio)"
 
 ### Video 3: "No sabías que podías ver esto en tu celular"
 - **Hook (3 seg):** "Esto está DENTRO de tu celular y no lo sabías 📱"
-- **Script:** Abre Goat TV en el celular, muestra canales en vivo: "TUDN, Fox Sports, TV Azteca, Las Estrellas... todo gratis en tu celular." (usar versión gratuita/demo)
+- **Script:** Abre Goat TV en el celular, muestra canales en vivo: "TUDN, Fox Sports, TV Azteca, Las Estrellas... todo gratis en tu celular." (usar una cuenta activa)
 - **Texto en pantalla:** "TUDN ✅ Fox Sports ✅ TV Azteca ✅ Las Estrellas ✅"
 - **Hashtags:** #celular #streaming #tudn #foxsports #tvazteca #gratis
 - **CTA:** "Descarga el APK → link en bio"
@@ -102,7 +102,7 @@
 
 ### Video 14: "¿4K o HD? Esta app te da 4K por menos"
 - **Hook (3 seg):** "¿Sabes cuánto cuesta ver 4K en Netflix? $299. ¿Y en Goat TV? $250. Con todo incluido. 😏"
-- **Script:** Demo de calidad de video: "Mira esta diferencia. 4K nativo, sin compresión excesiva, por $49 MENOS que Netflix Premium."
+- **Script:** Muestra de calidad de video: "Mira esta diferencia. 4K nativo, sin compresión excesiva, por $49 MENOS que Netflix Premium."
 - **Texto en pantalla:** "Netflix 4K: $299 | Goat TV 4K: $250 (con canales + deportes incluidos)"
 - **Hashtags:** #4k #netflix #calidad #streaming #comparacion #goattv
 - **CTA:** "4K más barato con más contenido → link en bio"
@@ -335,7 +335,7 @@
 >
 > TODOS contentos, TODOS en una sola app 🎉
 >
-> Prueba gratis: goattvoficial.com/descargas.html
+> Más información: goattvoficial.com/descargas.html
 > WhatsApp: +52 1 81 4276 5488
 
 ### Mensaje 3: Urgencia/deal
@@ -365,7 +365,7 @@
 > - HD y 4K
 > - Se instala en su TV con un Fire Stick
 >
-> Prueba 1 semana gratis y después decides."
+> Conoce los planes disponibles y elige el que se adapte a ti."
 >
 > Eso es todo. Funciona. Contacto para soporte: +52 1 81 4276 5488
 > Descarga: goattvoficial.com/descargas.html

@@ -728,34 +728,6 @@ body {
   font-weight: 700;
   margin: 0.3rem 0;
 }
-.trial-box {
-  background: rgba(70,211,105,0.08);
-  border: 1px solid rgba(70,211,105,0.15);
-  border-radius: var(--radius-lg);
-  padding: 2rem;
-  text-align: center;
-  margin: 2rem 0;
-}
-.trial-box h3 {
-  color: var(--green);
-  font-size: 1.3rem;
-  margin-bottom: 0.5rem;
-}
-.trial-box p {
-  color: var(--text-secondary);
-}
-.trial-format {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 1rem 1.5rem;
-  margin: 1rem auto;
-  max-width: 400px;
-  font-family: monospace;
-  font-size: 0.95rem;
-  color: var(--gold);
-}
-
 /* ---- CONTACT ---- */
 .contact-grid {
   display: grid;
